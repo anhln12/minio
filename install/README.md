@@ -1,4 +1,4 @@
-# Run minio with two node & 2 disk
+# Run minio cluster with one node & 2 disk
 
 ```
 version: '3.8'
